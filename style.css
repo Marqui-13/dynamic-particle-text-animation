@@ -1,13 +1,16 @@
-canvas {
-    display: block;
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: -1;
-    background-color: #1c1a20; 
-    width: 100%;
-    height: 100%;
+* {
+ box-sizing: border-box;
+ overflow-x: hidden;
+ overflow-y: hidden;
 }
+#canvas1 {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      background-color: #1c1a20;
+  }
 input {
     position: absolute;
     z-index: 100;
