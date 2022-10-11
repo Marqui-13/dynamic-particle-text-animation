@@ -6,7 +6,7 @@ canvas {
     z-index: -1;
     background-color: #1c1a20; 
     width: 100%;
-    height: 90%;
+    height: 100%;
 }
 input {
     position: absolute;
