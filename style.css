@@ -21,3 +21,23 @@ a {
   left: 20px;
   z-index: 100;
 }
+
+  footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: right;
+    height: 30px;
+    line-height: 30px;
+    padding-right: 20px;
+      font-family: monospace;
+    position: absolute;
+    width: 100%;
+    color: black;
+    font-size: 15px;
+    text-shadow: 1px 1px 1px #737373; 
+    background: rgba(0,0,0,0.4);
+  }
+  footer a{
+    color: black;
+  }
