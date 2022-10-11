@@ -87,7 +87,7 @@ window.addEventListener('load', function(){
             this.particles = [];
             context.font = this.fontSize + 'px Arial';
             this.textWidth = context.measureText(this.text).width;
-            this.centerX = this.width / 5;
+            this.centerX = this.width / 3;
             this.centerY = this.height / 2 ;
             this.x = this.centerX - this.textWidth/2;
             this.y = this.centerY - this.fontSize/2;
