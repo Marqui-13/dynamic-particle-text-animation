@@ -17,13 +17,6 @@ input {
     top: 20px;
     left: 20px;
 }
-a {
-  color: green;
-  position: absolute;
-  bottom: 50px;
-  left: 20px;
-  z-index: 100;
-}
 
   footer {
     left: 0;
