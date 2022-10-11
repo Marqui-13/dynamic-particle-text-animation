@@ -31,7 +31,7 @@ input {
     width: 100%;
     color: white;
     font-size: 15px;
-    border: 2px solid white;
+    border-top: 2px solid white;
     border-radius: 13px;
   }
   footer a{
