@@ -9,7 +9,7 @@
       height: 100%;
       top: 0;
       left: 0;
-      background-color: #1c1a20;
+      background-color: black;
   }
 input {
     position: absolute;
@@ -29,11 +29,11 @@ input {
       font-family: monospace;
     position: absolute;
     width: 100%;
-    color: black;
+    color: white;
     font-size: 15px;
     text-shadow: 1px 1px 1px #737373; 
     background: rgba(0,0,0,0.4);
   }
   footer a{
-    color: black;
+    color: white;
   }
