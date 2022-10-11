@@ -41,7 +41,7 @@ window.addEventListener('load', function(){
             this.context = context;
             this.width = width;
             this.height = height;
-            this.text = 'Type something';
+            this.text = '₿⚡🕴️';
             this.textWidth;
             this.fontSize = 50;
             this.centerX = this.width / 2;
