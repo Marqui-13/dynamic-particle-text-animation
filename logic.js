@@ -92,7 +92,7 @@ window.addEventListener('load', function(){
             this.x = this.centerX - this.textWidth/2;
             this.y = this.centerY - this.fontSize/2;
             const gradient = context.createLinearGradient(this.x, this.y, this.textWidth, this.fontSize);
-            gradient.addColorStop(0, 'green');
+            gradient.addColorStop(0, '#f2a900');
             gradient.addColorStop(1, 'gray');
             context.fillStyle = gradient;
             context.fillText(this.text, this.x, this.y);
