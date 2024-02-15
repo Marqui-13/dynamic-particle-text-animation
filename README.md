@@ -66,9 +66,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - Font Awesome for icons
 
 
-## Converting JavaScript to TypeScript
-
-## Introduction
+## Converting JavaScript to TypeScript: Introduction
 
 This project initially uses JavaScript for its implementation. To leverage TypeScript’s type safety and modern features, you may want to convert the JavaScript code to TypeScript. This guide will walk you through the steps required to perform this conversion.
 
