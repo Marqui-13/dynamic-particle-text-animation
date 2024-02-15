@@ -66,7 +66,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - Font Awesome for icons
 
 
-# Converting JavaScript to TypeScript
+## Converting JavaScript to TypeScript
 
 ## Introduction
 
